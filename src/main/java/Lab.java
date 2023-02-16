@@ -9,6 +9,11 @@ public class Lab {
      * @return the combination of strings a and b.
      */
     public String combine(String a, String b){
-        return "";
+        public static void name(String[] args); {
+        String str1 = "a";
+        String str2 = "b";
+        system.out.println(str1+str2); 
+        }
+        
     }
 }
